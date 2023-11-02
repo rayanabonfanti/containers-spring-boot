@@ -85,7 +85,7 @@ mvn clean install
 Crie uma imagem Docker para seu aplicativo Spring Boot:
 
 ```bash
-ocker build -t docker-spring-boot-with-mysql .
+docker build -t docker-spring-boot-with-mysql .
 ```
 
 ## Conecte o MySQL à rede Spring
