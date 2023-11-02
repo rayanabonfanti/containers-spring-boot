@@ -1,0 +1,4 @@
+com\dockerspringbootmysql\entity\Student.class
+com\dockerspringbootmysql\repository\StudentRepo.class
+com\dockerspringbootmysql\controller\StudentController.class
+com\dockerspringbootmysql\DockerSpringBootMysqlApplication.class
